@@ -12,7 +12,7 @@ while (sayac <= 5)
 
 > ***Yukarıdaki örnekte bir while döngüsü görüyoruz. sayac başlangıçta 1 olarak verilmiş. Ve sayaç 5 den küçük veya 5'e eşit olduğu sürece console'a sayacın değerini yazdıracak. Ve her döngü sonunda sayacın değerini bir arttıracak.***
 
-####ForEach
+#### ForEach
 Foreach döngüsü diziler ve koleksiyonlarla döngüsel işlemler yapmak için kullanılır. Yapısı while ve for döngüsünden biraz farklıdır. Döngünün ne kadar devam edeceğini kullanılan dizi veya koleksiyonun eleman sayısı belirler. Her bir elaman için bir iterasyon gerçekleşir.
 
 **Yazım şekli aşağıdaki gibidir:**
